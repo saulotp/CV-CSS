@@ -1,0 +1,166 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  width: 50%;
+  padding-top: 50px;
+  font-family: "Fugaz One", cursive;
+  text-align: center;
+  font-size: 300%;
+  color: #66bfbf;
+}
+h2 {
+  color: #66bfbf;
+  position: relative;
+  margin: 50px auto;
+  font-family: "Lobster", cursive;
+  font-size: 50px;
+}
+.h21 {
+  font-family: "DotGothic16", sans-serif;
+  font-size: 35px;
+}
+
+.h22 {
+  font-family: "RocknRoll One", sans-serif;
+  font-size: 30px;
+  padding-top: 50px;
+}
+h3 {
+  color: #66bfbf;
+  font-size: 25px;
+  font-weight: 1000;
+}
+.p2 {
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+}
+
+.top-cloud {
+  position: relative;
+  left: 350px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: relative;
+  left: -50px;
+  top: -400px;
+}
+.computer {
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.gear {
+  border-radius: 50%;
+  width: 25%;
+  margin-left: 30px;
+  float: left;
+}
+
+.profile {
+  padding-top: 3%;
+}
+
+.mountain {
+  position: relative;
+  right: 50px;
+}
+
+a {
+  color: #11999e;
+}
+a:hover {
+  color: #eaf6f6;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  margin-left: 50;
+}
+
+p {
+  color: #40514e;
+}
+
+hr {
+  border-style: none;
+  border-top: 15px dotted #eaf6f6;
+  width: 120px;
+  position: relative;
+  margin: 100px auto;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  margin-bottom: 0;
+  padding-top: 150px;
+}
+
+.lp {
+  position: relative;
+  color: #eaf6f6;
+  margin: 0;
+  bottom: 50px;
+  font-size: 20px;
+}
+
+.footer-link {
+  position: relative;
+  bottom: 90px;
+  font-size: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-decoration: none;
+  color: #11999e;
+  font-family: "Fredoka One", cursive;
+}
+
+.btn {
+  position: relative;
+  bottom: 50px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: Verdana;
+  font-size: 22px;
+  padding: 20px;
+  background-color: #66bfbf;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.pl1 {
+  position: relative;
+  padding-bottom: 75px;
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.p3 {
+  font-size: 25px;
+  font-weight: 900;
+  text-align: justify;
+}
+
+.p4 {
+  font-size: 25px;
+  font-weight: 900;
+  text-align: justify;
+}
